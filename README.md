@@ -1,5 +1,3 @@
-# Cristian Trapero
-
 **DevOps Engineer @ Sesame HR**
 
 Valencia/València, Comunidad Valenciana / Comunitat Valenciana, España  
@@ -13,11 +11,11 @@ Passionate about DevOps, IoT and Cloud Computing I define myself as a proactive 
 
 ---
 
-## Experiencia
+## Experience
 
 ### Sesame HR
 **DevOps Engineer**  
-*mayo de 2023 - Presente (1 año 2 meses)*  
+*May 2023 - Present*  
 Valencia/València, Comunidad Valenciana / Comunitat Valenciana, España
 
 - Service and infrastructure monitoring with Prometheus, Node exporter, Alertmanager and Grafana
@@ -30,7 +28,7 @@ Valencia/València, Comunidad Valenciana / Comunitat Valenciana, España
 
 ### Signaturit
 **DevOps Engineer**  
-*marzo de 2022 - mayo de 2023 (1 año 3 meses)*  
+*March 2022 - May 2023*  
 Valencia/València, Comunidad Valenciana / Comunitat Valenciana, España
 
 - Implementing and configuring infrastructure on AWS for application deployment
@@ -44,50 +42,50 @@ Valencia/València, Comunidad Valenciana / Comunitat Valenciana, España
 
 ### Universidad de Castilla-La Mancha
 
-**Tecnólogo I+D en ARCO Research Group**  
-*julio de 2017 - julio de 2021 (4 años 1 mes)*  
+**Personal R&D at ARCO Research Group**  
+*July 2017 - July 2021*  
 Ciudad Real, España
 
 Exclusive dedication to the support and/or development of different national and European scientific research projects in the field of distributed intelligent systems and the development of services for companies in the infrastructure sector.
 
 Participating as R&D researcher in the following projects: ITEA3 CitiSim: SMART 3D SIMULATION AND MONITORING PLATFORM and SAND: Heterogeneous networked systems for the support of distributed intelligent services.
 
-**Becario en prácticas en ARCO Research Group**  
-*febrero de 2017 - junio de 2017 (5 meses)*  
+**Intern at ARCO Research Group**  
+*February 2017 - June 2017*  
 Ciudad Real, España
 
 Internship at the Institute of Information Technologies and Systems of the UCLM. Work focused on the development and deployment of a solution for access control and intelligent air conditioning in an office.
 
 ### CireBits
 
-**Administrador de sistemas**  
-*noviembre de 2015 - abril de 2018 (2 años 6 meses)*
+**Sysadmin**  
+*November 2015 - April 2018*
 
-- Experiencia en la administración de servidores GNU/Linux: Gestión de correo, dominios, firewalls y copias de seguridad.
-- Desarrollador de páginas web utilizando plataformas CMS.
-- Responsable y organizador de charlas/talleres de ciberseguridad en la Escuela Superior de Informática de Ciudad Real a través de la agrupación Hackbits.
+- Experience in GNU/Linux server administration: mail management, domains, firewalls and backups.
+- Web developer using CMS platforms.
+- Responsible and organiser of cybersecurity talks/workshops at the Escuela Superior de Informática de Ciudad Real through the Hackbits group.
 
-**Vicepresidente**  
-*febrero de 2016 - junio de 2017 (1 año 5 meses)*  
+**Vice-president**  
+*February 2016 - June 2017*  
 Ciudad Real, España
 
-- Desempeñando funciones en materia de captación de clientes, formación de los socios y gestión de proyectos.
-- Premio al Proyecto de Mayor impacto de 2016 por la Confederación Española de Junior Empresas (CEJE). [Noticia](https://web.archive.org/web/20220703152923/https://www.ceje.org/general/noticia/741)
+- Performing functions in the areas of customer acquisition, partner training and project management.
+- Award for the Project with the greatest impact in 2016 by the Spanish Confederation of Junior Enterprises (CEJE). [News](https://web.archive.org/web/20220703152923/https://www.ceje.org/general/noticia/741)
 
 ---
 
 ## Education
 
 ### Universitat Politècnica de València (UPV)
-**Máster en Ingenieria de Computadores y Redes**  
+**Master's Degree in Computer and Network Engineering**  
 *2021 - 2022*
 
 ### Universidad de Castilla-La Mancha
-**Máster en Ciberseguridad y Seguridad de la Información**  
+**Master's Degree in Cybersecurity and Information Security**  
 *2018 - 2019*
 
 ### Universidad de Castilla-La Mancha
-**Grado en Ingeniería Informática, Ingeniería informática**  
+**Degree of Computer Engineering**  
 *2012 - 2018*
 
 ---
@@ -109,6 +107,6 @@ Ciudad Real, España
 
 ## Languages
 
-- Español (Native or Bilingual)
+- Spanish (Native or Bilingual)
 - Inglés (Professional Working)
 
